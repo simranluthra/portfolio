@@ -17,4 +17,4 @@ PORTFOLIO PROJECT
 - At last , you will see the project opening in your default browser.
 
 # Getting Started
-- open the 'index.html'.
+- open the 'index.html' in any browser.
